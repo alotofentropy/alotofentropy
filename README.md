@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alotofentropy
-- 👀 I’m interested in medical imaging and medical education
-- 🌱 I’m working on multiple stacks to deoloy remote web based apps to allow open source image segementation and recognition algorithms and high availability database management
+- 👀 I’m interested in medical imaging and education
+- 🌱 I’m working on stacks to deploying web based apps for open source image segementation and recognition. 
 
 
 <!---
